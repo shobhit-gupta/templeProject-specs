@@ -15,14 +15,14 @@ I start with a simple ticket booking system which may be thought of as closely r
 ## Skill Demonstration
 This portfolio project is designed to demonstrate the following skill sets:
 - [] Upgradable Smart Contract
- - [] Data Smart Contract will store a mapping from a reservation to an owner.
- - [] Application Contract will then be iteratively written to use the Data Contract to support more sophisticated use cases.
+    - [] Data Smart Contract will store a mapping from a reservation to an owner.
+    - [] Application Contract will then be iteratively written to use the Data Contract to support more sophisticated use cases.
 - [] TDD approach for developing Smart Contracts.
 - [] Privacy & Data Protection
 - [] Security
- - CEI Pattern
+    - CEI Pattern
 - [] Oracle
- - Does it make sense to start using the actual current time instead of block time? Would that time be fetched using 3rd party oracles?
+    - Does it make sense to start using the actual current time instead of block time? Would that time be fetched using 3rd party oracles?
 
 
 
